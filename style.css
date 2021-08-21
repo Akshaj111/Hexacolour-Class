@@ -1,0 +1,36 @@
+h1 {
+            color:#FF1010;
+        }
+        *{
+           border:darkkhaki;
+            
+      }
+.BIG{
+    color:#AAFFDD;
+}
+h4{
+    color:#80FF00;
+}
+.me{
+    color:#FFFF00;
+}
+.header{
+    
+    display:flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+.item{
+    color:#00FF80;
+    border:solid;
+    box-shadow:deeppink;
+    box-shadow: 5px -5px;
+}
+body{
+    background-color: #0000FF;
+}
+        
